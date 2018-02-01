@@ -14,7 +14,7 @@ before_install:
   - sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
   - echo "deb http://download.mono-project.com/repo/ubuntu trusty main" | sudo tee /etc/apt/sources.list.d/mono-official.list
   - sudo apt-get update
-  - sudo apt-get install mono-complete mono-devel
+  - sudo apt-get install msbuild mono-complete mono-devel
   - wget -O os.deb http://oscript.io/downloads/1_0_19/onescript-engine_1.0.19_all.deb
   - sudo dpkg -i *.deb; sudo apt install -f
   - sudo oscript /usr/share/oscript/lib/opm/src/opm.os install opm
