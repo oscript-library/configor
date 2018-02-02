@@ -26,6 +26,7 @@ cache:
   directories:
     - '$HOME/.m2/repository'
     - '$HOME/.sonar/cache'
+    - '$HOME/docker'
 jobs:
   include:
     - stage: Тестирование 
