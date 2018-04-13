@@ -1,1 +1,7 @@
 *.xml
+*.ospx
+
+
+coverage/*
+
+.vscode/*
