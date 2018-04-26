@@ -323,4 +323,4 @@
 
 КонецПроцедуры
 
-Лог = Логирование.ПолучитьЛог("oscript.lib.configor.provider-json");
+Лог = Логирование.ПолучитьЛог("oscript.lib.configor.json");
