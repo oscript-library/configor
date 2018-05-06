@@ -1,5 +1,4 @@
 // Реализация шагов BDD-фич/сценариев c помощью фреймворка https://github.com/artbear/1bdd
-#Использовать gitrunner
 #Использовать asserts
 #Использовать tempfiles
 
