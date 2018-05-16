@@ -5,7 +5,7 @@
 [![Открытый чат проекта https://gitter.im/EvilBeaver/oscript-library](https://badges.gitter.im/khorevaa/configor.png)](https://gitter.im/EvilBeaver/oscript-library)
 
 [![Build Status](https://travis-ci.org/khorevaa/configor.svg?branch=master)](https://travis-ci.org/khorevaa/configor)
-[![Coverage Status](https://coveralls.io/repos/github/khorevaa/configor/badge.svg?branch=master)](https://coveralls.io/github/khorevaa/configor?branch=master)
+[![Coverage Status](https://sonar.silverbulleters.org/api/badges/measure?key=opensource-configor&metric=coverage&blinking=true)](https://coveralls.io/github/khorevaa/configor?branch=master)
 
 # Библиотека для работы с конфигурационными файлами в формате json, yaml
 
