@@ -1,0 +1,12 @@
+owner: 
+  contact:
+    email: mail.ru
+    tel: 77777777
+
+admin: 
+  contact:
+    email: admin.ru
+
+person:
+  address: home 
+
