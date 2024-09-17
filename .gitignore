@@ -1,7 +1,6 @@
 *.xml
 *.ospx
 
-
 coverage/*
-
 .vscode/*
+oscript_modules/*
