@@ -7,7 +7,7 @@ on:
 
 jobs:
   sonar:
-    uses: autumn-library/workflows/.github/workflows/sonar.yml@v1
+    uses: autumn-library/workflows/.github/workflows/sonar.yml@main
     with:
       github_repository: oscript-library/configor
     secrets:
