@@ -11,6 +11,6 @@ jobs:
       fail-fast: false
       matrix:
         oscript_version: ['default', 'lts-dev']
-    uses: autumn-library/workflows/.github/workflows/test.yml@v1
+    uses: autumn-library/workflows/.github/workflows/test.yml@main
     with:
       oscript_version: ${{ matrix.oscript_version }}
