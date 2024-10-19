@@ -1,11 +1,9 @@
 # configor
 
-[![Stars](https://img.shields.io/github/stars/khorevaa/configor.svg?label=Github%20%E2%98%85&a)](https://github.com/khorevaa/configor/stargazers)
-[![Release](https://img.shields.io/github/tag/khorevaa/configor.svg?label=Last%20release&a)](https://github.com/khorevaa/configor/releases)
-[![Открытый чат проекта https://gitter.im/EvilBeaver/oscript-library](https://badges.gitter.im/khorevaa/configor.png)](https://gitter.im/EvilBeaver/oscript-library)
-
-[![Build Status](https://travis-ci.org/khorevaa/configor.svg?branch=master)](https://travis-ci.org/khorevaa/configor)
-[![Coverage Status](https://sonar.silverbulleters.org/api/badges/measure?key=opensource-configor&metric=coverage&blinking=true)](https://coveralls.io/github/khorevaa/configor?branch=master)
+[![License](https://img.shields.io/github/license/oscript-library/configor?style=badge)](https://github.com/oscript-library/configor/blob/master/LICENSE)
+[![Last release](https://img.shields.io/github/v/release/oscript-library/configor?include_prereleases&label=last%20release&style=badge)](https://github.com/oscript-library/configor/releases/latest)
+[![GitHub issues](https://img.shields.io/github/issues-raw/oscript-library/configor?style=badge)](https://github.com/oscript-library/configor/issues)
+[![GitHub All Releases](https://img.shields.io/github/downloads/oscript-library/configor/total?style=flat-square)](https://github.com/oscript-library/configor/releases)
 
 # Библиотека для работы с конфигурационными файлами в формате json, yaml
 
