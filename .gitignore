@@ -4,3 +4,5 @@
 coverage/*
 .vscode/*
 oscript_modules/*
+
+out/
